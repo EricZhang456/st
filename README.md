@@ -1,3 +1,10 @@
+# st
+
+I ran out of things to do today and this is what I ended up with.
+
+### Original README
+
+```
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
@@ -31,4 +38,4 @@ See the man page for additional details.
 Credits
 -------
 Based on Aurélien APTEL <aurelien dot aptel at gmail dot com> bt source code.
-
+```
